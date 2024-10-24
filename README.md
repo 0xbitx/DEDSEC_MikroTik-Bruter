@@ -10,6 +10,8 @@
 ### DESCRIPTION
 MikroTik-Bruter is a powerful Linux-based tool specifically designed for brute-forcing MikroTik routers. It allows users to perform targeted attacks on MikroTik devices by attempting to gain access through various username and password combinations. The tool is versatile, supporting both single-user brute force attacks and dictionary-based attacks using custom user and password lists
 
+![2024-10-25_04-24](https://github.com/user-attachments/assets/d9fafb0c-9222-4172-947a-ac72032859ce)
+
 ### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC_MikroTik-Bruter.git
     * cd DEDSEC_MikroTik-Bruter
