@@ -13,7 +13,7 @@ MikroTik-Bruter is a powerful Linux-based tool specifically designed for brute-f
 ### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC_MikroTik-Bruter.git
     * cd DEDSEC_MikroTik-Bruter
-    * sudo apt-get install 
+    * sudo pip3 install selenium webdriver-manager
     * chmod +x dedsec_mikrotik
     * sudo ./dedsec_mikrotik
 
